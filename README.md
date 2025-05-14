@@ -34,7 +34,6 @@ Once Tampermonkey is installed in your browser, follow these steps to add this u
 
 If you're new to Tampermonkey or unsure how to run this userscript, no worries! Watch this step-by-step video guide that walks you through the entire process from start to finish:
 
-📺 **Watch on YouTube**:
 [![Watch on YouTube](https://img.youtube.com/vi/C27kTdtUhZk/0.jpg)](https://youtu.be/C27kTdtUhZk)
 
 ---

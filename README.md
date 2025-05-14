@@ -10,7 +10,7 @@ Welcome to this Tampermonkey userscript! This script is designed for anyone—wh
 
 If you haven’t installed Tampermonkey yet, follow this guide first:
 
-👉 [How to Install Tampermonkey in Chrome](./how-to-install-tempermonkey-in-chrome.md)
+👉 [How to Install Tampermonkey in Chrome](./Temper%20Monkey%20Installation.md)
 
 Tampermonkey is a browser extension that lets you run custom userscripts on websites. It’s free and secure.
 
@@ -24,10 +24,10 @@ Once Tampermonkey is installed in your browser, follow these steps to add this u
 2. Choose **"Dashboard"** from the dropdown.
 3. Click on the **"+" (Create a new script)** button.
 4. Remove the default code that appears.
-5. Copy the entire code from the provided userscript file in this repo (e.g., [`your-script.user.js`](./your-script.user.js)) and paste it into the editor.
+5. Copy the entire code from the provided userscript file in this repo (e.g., [`Script.js`](./Script.js)) and paste it into the editor.
 6. Click **File → Save** or use the **Ctrl+S** shortcut.
 
-🔍 **Hint**: Add a screenshot here showing where the "Create a new script" button is and where to paste the code.
+![How to create new script](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20150840.png)
 
 ---
 

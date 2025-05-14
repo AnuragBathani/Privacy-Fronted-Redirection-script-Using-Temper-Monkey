@@ -14,7 +14,7 @@ Go to the official [Chrome Web Store](https://chrome.google.com/webstore).
 
 In the search bar, type `Tampermonkey` and press Enter.
 
-📸 **Insert Screenshot Here: Typing Tampermonkey in the Search Bar**
+![](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20144027.png)
 
 ---
 
@@ -22,7 +22,7 @@ In the search bar, type `Tampermonkey` and press Enter.
 
 Click on the extension titled **Tampermonkey** developed by **tampermonkey.net**.
 
-📸 **Insert Screenshot Here: Tampermonkey Extension in Search Results**
+![](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20144715.png)
 
 ---
 
@@ -30,7 +30,7 @@ Click on the extension titled **Tampermonkey** developed by **tampermonkey.net**
 
 Click the `Add to Chrome` button.
 
-📸 **Insert Screenshot Here: Add to Chrome Button Highlighted**
+![](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20144715.png)
 
 ---
 
@@ -38,7 +38,7 @@ Click the `Add to Chrome` button.
 
 A confirmation popup will appear. Click `Add Extension`.
 
-📸 **Insert Screenshot Here: Add Extension Confirmation Dialog**
+![](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20144813.png)
 
 ---
 
@@ -46,7 +46,7 @@ A confirmation popup will appear. Click `Add Extension`.
 
 Click the Tampermonkey icon, then click on **Dashboard** to manage your userscripts.
 
-📸 **Insert Screenshot Here: Tampermonkey Icon Dropdown with Dashboard Highlighted**
+![](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20153307.png)
 
 ---
 
